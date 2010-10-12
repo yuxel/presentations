@@ -1,0 +1,16 @@
+/**
+ * Baglantiyi cevreleyen kutu
+ */
+#kutu {
+  border:3px solid #CCCCCC; /* gri */
+  width:100px; 
+  text-align:center; 
+  margin:0 auto;
+}
+
+/**
+ * Kutunun icindeki baglanti
+ */
+#kutu a {
+  color:#FF0000; /* kırmızı */
+}
